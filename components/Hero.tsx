@@ -146,7 +146,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
           <div className="absolute -top-10 right-6 w-20 h-20 sm:w-24 sm:h-24 object-contain animate-bounce-slow">
             <Image
               src="/assets/intro-DzUiguR4.webp"
-              alt="Decorative princess day animation"
+              alt="Decorative animation"
               width={96}
               height={96}
               className="w-full h-full object-contain"
@@ -182,7 +182,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              Hey Princess! 💕
+              Hey Sweetest! 💕
             </motion.h1>
 
             <motion.div
@@ -192,7 +192,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               transition={{ delay: 0.4 }}
             >
               <p>
-                I Wanted to do something special for you, for this princess day,
+                I Wanted to do something special for you,
                 so I made something special just for you...
               </p>
               <p className="pt-3">
@@ -223,7 +223,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
             >
               <Image
                 src="/assets/intro-BrJOTFFc.webp"
-                alt="Decorative princess illustration"
+                alt="Decorative illustration"
                 width={80}
                 height={80}
                 className="w-20 h-auto object-contain"

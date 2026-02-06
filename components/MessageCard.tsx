@@ -285,7 +285,7 @@ export default function MessageCard({
                           {/* Letter body */}
                           <div className="handwriting text-sm sm:text-base leading-relaxed text-[#1b0d14] pb-20 pt-6">
                             <div className="mb-4 text-[#f04299] font-medium">
-                              My dearest Divya,
+                              My dearest Mann,
                             </div>
                             <div
                               className="mb-6 text-justify"
@@ -294,7 +294,7 @@ export default function MessageCard({
                               Every moment with you feels like a beautiful dream
                               that I never want to wake up from. I want you to
                               know that you are the most precious person in my
-                              life. Every day with you is a gift, and I&apos;m
+                              life. Every day with you is a gift, and I'm
                               grateful for every second we share together. You
                               make me want to be the best version of myself.
                             </div>

@@ -1,4 +1,4 @@
-# 👑 National Princess Day Surprise
+# I LOVE YOU
 
 <div align="center">
 
@@ -70,8 +70,8 @@ Edit the message content in `data/message.ts`:
 
 ```typescript
 export const messageData = {
-  title: 'Happy National Princess Day 👑',
-  subtitle: 'To my favorite princess — today, and every day.',
+  title: 'To My Sweetest',
+  subtitle: 'To my best man today, and every day.',
   body: `Your custom message here...`,
   // ...
 };
@@ -177,5 +177,5 @@ princess-day/
 
 ## 📝 License
 
-Made with 💕 for National Princess Day
+Made with 💕 
 
